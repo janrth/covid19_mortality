@@ -1,0 +1,5 @@
+monthly mortality: http://data.un.org/Data.aspx?d=POP&f=tableCode%3A65
+
+DCIS 2018 data: http://dati.istat.it/Index.aspx?DataSetCode=DCIS_MORTALITA1#
+
+yearly forecast/trend: Proper attribution requires clear indication of the data source as "www.macrotrends.net".
