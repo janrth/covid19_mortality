@@ -1,4 +1,5 @@
 # monthly_mortality
+Time-series prediction using some SARIMA model:
 
 I have pulled monthly mortality UN data, which is available here http://data.un.org/Data.aspx?d=POP&f=tableCode%3A65.
 My goal was to predict monthly mortality for a whole year. I picked Italy as a country and made my forecast for 2018. First I developed a baseline model using monthly average 
